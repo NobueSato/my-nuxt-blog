@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #fffcf3; /* Background color across the app */
+    font-family: 'Arial', sans-serif;
+  }
